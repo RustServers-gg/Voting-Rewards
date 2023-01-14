@@ -5,7 +5,7 @@ using UnityEngine;
 
 namespace Oxide.Plugins
 {
-    [Info("RustServer.gg Vote", "Hyper@RustServers", "1.1.99")]
+    [Info("RustServer.gg Vote", "Hyper@RustServers", "1.2.0")]
     [Description("Voting reward plugin for RustServers.gg")]
     public class RSVote: RustPlugin
     {
